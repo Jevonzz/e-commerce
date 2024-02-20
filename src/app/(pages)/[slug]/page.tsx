@@ -23,6 +23,7 @@ export const dynamic = 'force-dynamic'
 import Categories from '../../_components/Categories'
 
 import classes from './index.module.scss'
+import Promotion from '../../_components/Promotion'
 
 export default async function Page({ params: { slug = 'home' } }) {
   const { isEnabled: isDraftMode } = draftMode()
@@ -64,6 +65,7 @@ export default async function Page({ params: { slug = 'home' } }) {
           <Hero {...hero} />
           <Gutter className={classes.home}>
             <Categories categories = {categories}/>
+            <Promotion />
           </Gutter>
         </section>
       ) : (
