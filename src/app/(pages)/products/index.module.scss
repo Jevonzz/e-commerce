@@ -1,0 +1,26 @@
+@import '../../_css/common';
+
+.container {
+    width: 100%;
+}
+
+.titleWrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    h3 {
+        font-weight: 400;
+    }
+}
+
+.products {
+    display: grid;
+    grid-template-columns: 1fr 75%;
+    gap: 60px;
+    
+    @include large-break {
+        grid-template-columns: 100%;
+        gap: 48px;
+    }
+}
