@@ -1,3 +1,12 @@
+# Web Application Preview
+## Main Page ( Hero )
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/723523c2-d3ce-4d4d-b14e-892c57b5ab24)
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/fb1b0712-3ae5-49d3-9b9f-646f114c0119)
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/374a8e9f-0f45-4844-b9b3-96a94f034e58)
+
+
+
+
 # Payload E-Commerce Template
 
 This is the official [Payload E-Commerce Template](https://github.com/payloadcms/payload/blob/main/templates/ecommerce). Use it to power e-commerce businesses and online stores of all sizes. This repo includes a fully-working backend, enterprise-grade admin panel, and a beautifully designed, production-ready website.
