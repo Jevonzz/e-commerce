@@ -1,7 +1,25 @@
 # Web Application Preview
+
 ## Main Page ( Hero )
 ![image](https://github.com/Jevonzz/e-commerce/assets/109259972/a972afc2-5c6d-4930-9dc5-d165ea0a8864)
 
+## Login Page
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/cf999263-596f-47af-ae02-8a10896d3e35)
+
+##Account Page
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/1e3e84fa-6970-4c91-8ad2-50e37a1dd49d)
+
+## Shop Page
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/efbf3c79-f0ca-4212-a752-a601ac57a058)
+
+## Product Page
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/a24edfea-9bae-4a02-8ffc-0eb329e9541b)
+
+## Cart Page
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/a0d6a419-5f8c-4f63-a6a2-2596dbc3859f)
+
+## Checkout Page
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/a99b7659-015b-467b-9f0e-e011ab03ab3b)
 
 
 
