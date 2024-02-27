@@ -1,8 +1,6 @@
 # Web Application Preview
 ## Main Page ( Hero )
-![image](https://github.com/Jevonzz/e-commerce/assets/109259972/723523c2-d3ce-4d4d-b14e-892c57b5ab24)
-![image](https://github.com/Jevonzz/e-commerce/assets/109259972/fb1b0712-3ae5-49d3-9b9f-646f114c0119)
-![image](https://github.com/Jevonzz/e-commerce/assets/109259972/374a8e9f-0f45-4844-b9b3-96a94f034e58)
+![image](https://github.com/Jevonzz/e-commerce/assets/109259972/a972afc2-5c6d-4930-9dc5-d165ea0a8864)
 
 
 
