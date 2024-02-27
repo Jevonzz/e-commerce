@@ -6,7 +6,7 @@
 ## Login Page
 ![image](https://github.com/Jevonzz/e-commerce/assets/109259972/cf999263-596f-47af-ae02-8a10896d3e35)
 
-##Account Page
+## Account Page
 ![image](https://github.com/Jevonzz/e-commerce/assets/109259972/1e3e84fa-6970-4c91-8ad2-50e37a1dd49d)
 
 ## Shop Page
